@@ -1,4 +1,4 @@
-# Data for "Plastid-localized xanthorhodopsin increases diatom biomass and ecosystem productivity in iron-limited surface oceans"
+# Data for "_Plastid-localized xanthorhodopsin increases diatom biomass and ecosystem productivity in iron-limited surface oceans_"
 The repository contains supplementary data and metadata used in the _Nature Microbiology_ research paper [Plastid-localized xanthorhodopsin increases diatom biomass and ecosystem productivity in iron-limited surface oceans](https://www.nature.com/nmicrobiol/).
 
 ## A phylogenetic tree of representative microbial rhodopsins
