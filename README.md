@@ -13,9 +13,9 @@ The tree is based on eukaryotic rhodopsin sequences.
 ## Metadata structure
 | Column | Description |
 | --- | --- |
-| Name | Sequence ID |
-| Accession | NCBI  accession |
-| Description | NCBI definition line |
+| Name | Sequence ID/accession |
+| Accession | NCBI  accession version |
+| Description | Sequence/NCBI definition line |
 | Organism | Organism |
 | Sequence | Amino acid sequence |
 | Taxonomy | Taxonomic lineage |
