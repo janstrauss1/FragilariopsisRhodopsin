@@ -11,6 +11,14 @@ The tree is based on eukaryotic rhodopsin sequences.
 + `metadata/Xanthorhodopsins_Strauss_et_al2023_metadata.csv` - metadatafile
 
 ## Metadata structure
-| Header | Header |
+| Column | Description |
 | --- | --- |
-| content | content |
+| Name | Sequence ID |
+| Accession | NCBI  accession |
+| Description | NCBI definition line |
+| Organism | Organism |
+| Sequence | Amino acid sequence |
+| Taxonomy | Taxonomic lineage |
+| db_xref | NCBI taxonomy ID |
+| protein_family | Rhodopsin clade/family |
+| taxon_group | Taxonomic group |
