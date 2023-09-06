@@ -8,6 +8,7 @@ The tree is based on eukaryotic rhodopsin sequences.
 + `data/Xanthorhodopsins_Strauss_et_al2023_AlignmentWithGaps.fasta` - raw alignment
 + `data/Xanthorhodopsins_Strauss_et_al2023_MaskedAlignment.fasta` - masked alignment done with positions with 25% gaps
 + `data/Xanthorhodopsins_Strauss_et_al2023_RAxML.tree` - Newick tree file
++ `data/FcR1_A0A1E7EXA4.cif` - AlphaFold2 structure prediction of Fragilariopsis cylindrus rhodopsin 1 (FcR1; UniProt: A0A1E7EXA4) with retinal in crystallographic information file (CIF) format
 + `metadata/Xanthorhodopsins_Strauss_et_al2023_metadata.csv` - metadata
 
 ## Metadata structure
