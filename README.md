@@ -2,7 +2,7 @@
 The repository contains supplementary data and metadata used in the _Nature Microbiology_ research paper [Plastid-localized xanthorhodopsin increases diatom biomass and ecosystem productivity in iron-limited surface oceans](https://www.nature.com/nmicrobiol/).
 
 ## Phylogenetic tree of eukaryotic xanthorhodopsins
-Rhodopsin sequences focusing on eukaryotic xanthorhodopsin protein sequences were collected from the scientific literature and supplemented with manually curated sequences from BlastP search results of the FcR1 protein sequence [UniProt: A0A1E7EXA4](https://www.uniprot.org/uniprotkb/A0A1E7EXA4/) against NCBI databases, a custom database from [Beja Lab](https://github.com/BejaLab), as well as similar sequences at an amino acid sequence identity threshold of ≥50% based on their membership in the UniRef50 cluster built using FcR1 as seed sequence (UniRef50_A0A7S2RIV1). The selected set of proteins was further supplemented with a manually curated set of outgroup sequences including characterized members of the proteorhodopsin subfamily totalling 242 sequences.
+Rhodopsin sequences focusing on eukaryotic xanthorhodopsin protein sequences were collected from the scientific literature and supplemented with manually curated sequences from BlastP search results of the Fragilariopsis cylindrus Rhodopsin 1 (FcR1) protein sequence [(UniProt: A0A1E7EXA4)](https://www.uniprot.org/uniprotkb/A0A1E7EXA4/) against NCBI databases, a custom database from [Beja Lab](https://github.com/BejaLab), as well as similar sequences at an amino acid sequence identity threshold of ≥50% based on their membership in the [UniRef50 cluster](https://www.uniprot.org/uniref/) built using FcR1 as seed sequence [(UniRef50_A0A7S2RIV1)](https://www.uniprot.org/uniref/UniRef50_A0A7S2RIV1). The selected set of proteins was further supplemented with a manually curated set of outgroup sequences including characterized members of the proteorhodopsin subfamily totalling 242 sequences.
 
 Sequences were aligned using [MAFFT](https://mafft.cbrc.jp/alignment/software/) with default parameters and positions with 25% or more gaps were masked. The maximum-likelihood (ML) reference reconstruction was built using [RAxML v.8.277](https://github.com/stamatak/standard-RAxML) under the LG+G4 model (selected using [IQ-TREE](https://github.com/Cibiv/IQ-TREE) with the corrected Akaike information criterion).
 
@@ -11,9 +11,9 @@ A predicted (3D) structure of FcR1 was generated using [ColabFold](https://githu
 
 ## Files in the repository
 + `data/Xanthorhodopsins_Strauss_et_al2023_AlignmentWithGaps.fasta` - raw alignment
-+ `data/Xanthorhodopsins_Strauss_et_al2023_MaskedAlignment.fasta` - masked alignment done with positions with 25% gaps
++ `data/Xanthorhodopsins_Strauss_et_al2023_MaskedAlignment.fasta` - masked alignment
 + `data/Xanthorhodopsins_Strauss_et_al2023_RAxML.tree` - Newick tree file
-+ `data/FcR1_A0A1E7EXA4.cif` - AlphaFold2 structure prediction of Fragilariopsis cylindrus rhodopsin 1 (FcR1; UniProt: A0A1E7EXA4) with retinal in crystallographic information file (CIF) format
++ `data/FcR1_A0A1E7EXA4.cif` - AlphaFold2 structure prediction of FcR1 with retinal in crystallographic information file (CIF) format
 + `metadata/Xanthorhodopsins_Strauss_et_al2023_metadata.csv` - metadata
 
 ## Metadata structure
