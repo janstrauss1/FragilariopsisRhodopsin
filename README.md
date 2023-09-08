@@ -13,11 +13,15 @@ Rhodopsin sequences focusing on eukaryotic xanthorhodopsin protein sequences wer
 
 Sequences were aligned using [MAFFT](https://mafft.cbrc.jp/alignment/software/) with default parameters and positions with 25% or more gaps were masked. The maximum-likelihood (ML) reference reconstruction was built using [RAxML v.8.277](https://github.com/stamatak/standard-RAxML) under the LG+G4 model (selected using [IQ-TREE](https://github.com/Cibiv/IQ-TREE) with the corrected Akaike information criterion).
 
+## Phytoplankton growth data
+The polar diatom _F. cylindrus_ was grown at different concentrations of silicate ranging from 0.01 - 100 µM [Si] and mean growth rates were determined.
+
 ## Files in the repository
 + `data/FcR1_A0A1E7EXA4.cif` - AlphaFold2 structure prediction of FcR1 with retinal in crystallographic information file (CIF) format
 + `data/Xanthorhodopsins_Strauss_et_al2023_AlignmentWithGaps.fasta` - raw alignment
 + `data/Xanthorhodopsins_Strauss_et_al2023_MaskedAlignment.fasta` - masked alignment
 + `data/Xanthorhodopsins_Strauss_et_al2023_RAxML.tree` - Newick tree file
++ `data/Strauss_SI_Fig1_SourceData.csv`- Growth rates of _F. cylindrus_ at different silicate concentrations
 + `metadata/Xanthorhodopsins_Strauss_et_al2023_metadata.csv` - metadata
 
 ## Metadata structure
