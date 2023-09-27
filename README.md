@@ -16,6 +16,12 @@ Sequences were aligned using [MAFFT](https://mafft.cbrc.jp/alignment/software/) 
 ## Phytoplankton growth data
 The polar diatom _F. cylindrus_ was grown at different concentrations of silicate ranging from 0.01 - 100 µM [Si] and mean growth rates were determined.
 
+## Expression vectors used in the study
++ Xenopus laevis expression vector pGEMHE containing 5’ and 3’UTRs from a Xenopus -globin gene (Kreig, P. A., and Melton, D.A. (1984), Nucl. Acids Res. 72, 7057-70), which flank a polylinker with restriction enzyme sites (Liman, E. R. et al. (1992), Neuron 9(5): 861-71).
++ Phaeodactylum tricornutum transformation vector pPha-T1 (GenBank AF219942; Zaslavskaia et al. (2001), J. Phycol. 36(2): 379) containing fucoxanthin chlorophyll-binding protein (fcp) regulatory sequences to drive constitutive expression of bleomycin resistance protein (Ble) conferring zeocin resistance and gene of interest, which is to be cloned into multiple cloning site (MCS).
++ Phaeodactylum tricornutum transformation vector StuI-GFP-pPha-T1 (Gruber et al. (2007), Plant Mol. Biol. 64(5): 519) for generation of eGFP fusion proteins. To generate GFP fusion constructs, the sequence of interest is to be cloned into the StuI restriction site at 5’ end of eGFP. Vector represents a derivate of the pPha-T1 vector (Zaslavskaia et al. (2001), J. Phycol. 36(2): 379).
++ Thalassiosira pseudonana transformation vector pTpFCP-GFP/fcpNat for constitutive expression of eGFP fusion proteins (Poulsen et al. (2006), J. Phycol. 42(5):1059; Scheffel et al. (2011), PNAS 108(8):3175).
+
 ## Files in the repository
 + `data/FcR1_A0A1E7EXA4.cif` - AlphaFold2 structure prediction of FcR1 with retinal in crystallographic information file (CIF) format
 + `data/Xanthorhodopsins_Strauss_et_al2023_AlignmentWithGaps.fasta` - raw alignment
