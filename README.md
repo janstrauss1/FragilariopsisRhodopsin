@@ -14,7 +14,7 @@ Rhodopsin sequences focusing on eukaryotic xanthorhodopsin protein sequences wer
 Sequences were aligned using [MAFFT](https://mafft.cbrc.jp/alignment/software/) with default parameters and positions with 25% or more gaps were masked. The maximum-likelihood (ML) reference reconstruction was built using [RAxML v.8.277](https://github.com/stamatak/standard-RAxML) under the LG+G4 model (selected using [IQ-TREE](https://github.com/Cibiv/IQ-TREE) with the corrected Akaike information criterion).
 
 ## Diatom growth data at different silicate concentrations
-The polar diatom _F. cylindrus_ was grown at different concentrations of silicate ranging from 0.01 - 100 µM to determine mean growth rates and its half-saturation constant K<sub>m</sub> for silicate.
+The polar diatom _F. cylindrus_ was grown at different concentrations of silicate ranging from 0.01 - 100 µM to determine mean growth rates and its half-saturation constant _K<sub>m</sub>_ for silicate.
 
 ## Expression vectors used in the study
 | Vector | Description | Reference |
