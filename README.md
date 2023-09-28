@@ -28,6 +28,10 @@ The polar diatom _F. cylindrus_ was grown at different concentrations of silicat
 + `data/Xanthorhodopsins_Strauss_et_al2023_MaskedAlignment.fasta` - masked alignment
 + `data/Xanthorhodopsins_Strauss_et_al2023_RAxML.tree` - Newick tree file
 + `data/Strauss_SI_Fig1_SourceData.csv`- Growth rates of _F. cylindrus_ at different silicate concentrations
++ `data/pGEMHE.gb`- Genbank flat file for Xenopus laevis expression vector pGEMHE
++ `data/pPha-T1.gb`- Phaeodactylum tricornutum transformation vector pPha-T1
++ `data/StuI-GFP-pPha-T1.gb`- Phaeodactylum tricornutum transformation vector StuI-GFP-pPha-T1
++ `data/pTpFcpGFP-FcpNat.gb`- Thalassiosira pseudonana transformation vector pTpFCP-GFP/fcpNat
 + `metadata/Xanthorhodopsins_Strauss_et_al2023_metadata.csv` - metadata
 
 ## Metadata structure
