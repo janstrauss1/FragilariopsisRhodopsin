@@ -1,4 +1,4 @@
-# Data for "_Plastid-localized xanthorhodopsin increases diatom biomass and ecosystem productivity in iron-limited surface oceans_"
+# Supplementary Data for "_Plastid-localized xanthorhodopsin increases diatom biomass and ecosystem productivity in iron-limited surface oceans_"
 [![DOI](https://zenodo.org/badge/687189446.svg)](https://zenodo.org/badge/latestdoi/687189446)
 
 The repository contains supplementary data and metadata used in the _Nature Microbiology_ research paper [Plastid-localized xanthorhodopsin increases diatom biomass and ecosystem productivity in iron-limited surface oceans](https://www.nature.com/nmicrobiol/) reporting on a xanthorhodopsin variant [FcR1](https://www.uniprot.org/uniprotkb/A0A1E7EXA4/) isolated from the polar diatom _Fragilariopsis cylindrus_.
