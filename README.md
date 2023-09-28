@@ -13,12 +13,12 @@ Rhodopsin sequences focusing on eukaryotic xanthorhodopsin protein sequences wer
 
 Sequences were aligned using [MAFFT](https://mafft.cbrc.jp/alignment/software/) with default parameters and positions with 25% or more gaps were masked. The maximum-likelihood (ML) reference reconstruction was built using [RAxML v.8.277](https://github.com/stamatak/standard-RAxML) under the LG+G4 model (selected using [IQ-TREE](https://github.com/Cibiv/IQ-TREE) with the corrected Akaike information criterion).
 
-## Phytoplankton growth data
-The polar diatom _F. cylindrus_ was grown at different concentrations of silicate ranging from 0.01 - 100 µM [Si] and mean growth rates were determined.
+## Diatom growth data at different silicate concentrations
+The polar diatom _F. cylindrus_ was grown at different concentrations of silicate ranging from 0.01 - 100 µM to determine mean growth rates and its half-saturation constant K<sub>m</sub> for silicate.
 
 ## Expression vectors used in the study
 | Vector | Description | Reference |
-| --- | --- | --- |
+| ---- | ---- | ---- |
 | pGEMHE | _Xenopus laevis_ expression vector pGEMHE containing 5’ and 3’UTRs from a Xenopus beta-globin gene | [Kreig, P. A., and Melton, D.A. (1984), Nucl. Acids Res. 72, 7057-70](https://doi.org/10.1093/nar/12.18.7057); [Liman, E. R. et al. (1992), Neuron 9(5): 861-71](https://doi.org/10.1016/0896-6273(92)90239-A) |
 | pPha-T1 | _Phaeodactylum tricornutum_ transformation vector containing fucoxanthin chlorophyll-binding protein (fcp) regulatory sequences to drive constitutive expression of bleomycin resistance protein (Ble) conferring zeocin resistance and gene of interest | GenBank:[AF219942](https://www.ncbi.nlm.nih.gov/nuccore/AF219942); [Zaslavskaia et al. (2001), J. Phycol. 36(2): 379](https://doi.org/10.1046/j.1529-8817.2000.99164.x)|
 | StuI-GFP-pPha-T1 | _Phaeodactylum tricornutum_ transformation vector for generation of eGFP fusion proteins. To generate GFP fusion constructs, the sequence of interest is to be cloned into the StuI restriction site at 5’ end of eGFP. Derivate of the pPha-T1 vector | [Gruber et al. (2007), Plant Mol. Biol. 64(5): 519](https://doi.org/10.1007/s11103-007-9171-x); [Zaslavskaia et al. (2001), J. Phycol. 36(2): 379](https://doi.org/10.1046/j.1529-8817.2000.99164.x) |
