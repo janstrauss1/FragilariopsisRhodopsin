@@ -26,6 +26,7 @@ The polar diatom _F. cylindrus_ was grown at different concentrations of silicat
 
 ## Files in the repository
 + `data/FcR1_A0A1E7EXA4.cif` - AlphaFold2 structure prediction of FcR1 with retinal in crystallographic information file (CIF) format
++ `data/FcR1_JGI_ID_287459.fasta` - Nucleotide coding sequence (CDS) of _fcr1_ gene (JGI ID: 287459) in fasta format
 + `data/Xanthorhodopsins_Strauss_et_al2023_AlignmentWithGaps.fasta` - raw alignment
 + `data/Xanthorhodopsins_Strauss_et_al2023_MaskedAlignment.fasta` - masked alignment
 + `data/Xanthorhodopsins_Strauss_et_al2023_RAxML.tree` - Newick tree file
